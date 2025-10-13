@@ -43,10 +43,7 @@ function Intro(){
                     <div className="card2">
                         <p>Hello, I'm Shwejan Peddi</p>
                         <p>
-                        As an aspiring computer science engineer pursuing an MS degree, I am currently seeking opportunities for Spring Co-op 2024
-                        and Full-time SDE roles from Summer 2024. With a strong academic background, extensive hands-on experience in web development,
-                        AI technologies, and data structures, and a deep passion for technology, I am highly motivated to contribute to a dynamic
-                        and innovative company that values creativity, teamwork, and growth.
+                        
                         </p>
                     </div>
                 </div>
@@ -63,7 +60,7 @@ function Intro(){
                         <p>Illinois Institute of Technology</p>
                     </div>
                     <div>
-                        <p>Aug 2022 - May 2024</p>
+                        <p></p>
                     </div>
                 </div>
                 <p>Masters in Computer Science</p>
@@ -73,7 +70,7 @@ function Intro(){
                         <p>Indian Institute of Information Technology Kottayam</p>
                     </div>
                     <div>
-                        <p>Aug 2018 - May 2022</p>
+                        <p></p>
                     </div>
                 </div>
                 <p>Bachelors in Computer Science and Engineering</p>
